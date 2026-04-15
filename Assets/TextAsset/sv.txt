@@ -1,0 +1,33 @@
+# Swedish
+# Last updated: 13.05.2015
+arsle#
+\bbög\b#faggot
+brutta#
+\bfan\b#damn
+fitta#cunt 
+fittig#
+flens#dick cheese
+\bhård\b#
+helvete#hell
+jävlar#
+\b\w*knulla(re)?\b#fucker
+\bkuk\w*\b#cock 
+\bmoona\w*\b#
+mutta#
+\bolla\b#
+pattar#tits
+pippa#
+\bpitt\b#
+\bpök\b#
+prutt#
+\bröv\w*\b#
+runka#
+\bsås\b#
+satan#
+sätta( )*på#
+skäggbiff#
+skita#
+sne(d)?fitta#
+stake#
+subba#
+tusan#

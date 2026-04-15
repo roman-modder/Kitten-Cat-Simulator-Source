@@ -1,0 +1,274 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1709254077376921
+GameObject:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_Component:
+  - component: {fileID: 4730242686860875}
+  - component: {fileID: 114724804207875695}
+  m_Layer: 8
+  m_Name: SciFi Atlas
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4730242686860875
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1709254077376921}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: -0, z: -0}
+--- !u!114 &114724804207875695
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1709254077376921}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 03f7db9a480b403690a4a83220213122, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  material: {fileID: 2100000, guid: e40128dace11ce94db9fce4de73f54f1, type: 2}
+  sprites:
+  - name: Dark
+    outer:
+      serializedVersion: 2
+      x: 18
+      y: 1
+      width: 15
+      height: 15
+    inner:
+      serializedVersion: 2
+      x: 22
+      y: 5
+      width: 7
+      height: 7
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Button
+    outer:
+      serializedVersion: 2
+      x: 43
+      y: 5
+      width: 13
+      height: 13
+    inner:
+      serializedVersion: 2
+      x: 47
+      y: 9
+      width: 5
+      height: 5
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Highlight
+    outer:
+      serializedVersion: 2
+      x: 0
+      y: 1
+      width: 17
+      height: 15
+    inner:
+      serializedVersion: 2
+      x: 3
+      y: 4
+      width: 11
+      height: 9
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Light
+    outer:
+      serializedVersion: 2
+      x: 43
+      y: 19
+      width: 18
+      height: 18
+    inner:
+      serializedVersion: 2
+      x: 45
+      y: 21
+      width: 14
+      height: 14
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: X
+    outer:
+      serializedVersion: 2
+      x: 43
+      y: 38
+      width: 22
+      height: 20
+    inner:
+      serializedVersion: 2
+      x: 43
+      y: 38
+      width: 22
+      height: 20
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Honeycomb
+    outer:
+      serializedVersion: 2
+      x: 0
+      y: 59
+      width: 112
+      height: 88
+    inner:
+      serializedVersion: 2
+      x: 1
+      y: 60
+      width: 110
+      height: 86
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Font - Normal
+    outer:
+      serializedVersion: 2
+      x: 1538
+      y: 354
+      width: 256
+      height: 256
+    inner:
+      serializedVersion: 2
+      x: 1538
+      y: 354
+      width: 256
+      height: 256
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Font - Header
+    outer:
+      serializedVersion: 2
+      x: 1281
+      y: 98
+      width: 256
+      height: 512
+    inner:
+      serializedVersion: 2
+      x: 1281
+      y: 98
+      width: 256
+      height: 512
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: NGUI
+    outer:
+      serializedVersion: 2
+      x: 0
+      y: 148
+      width: 255
+      height: 75
+    inner:
+      serializedVersion: 2
+      x: 0
+      y: 148
+      width: 255
+      height: 75
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: MultiFont_0
+    outer:
+      serializedVersion: 2
+      x: 1281
+      y: 611
+      width: 755
+      height: 413
+    inner:
+      serializedVersion: 2
+      x: 1281
+      y: 611
+      width: 755
+      height: 413
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0.0013245033
+    paddingTop: 0
+    paddingBottom: 0.8305085
+  - name: common_10_home
+    outer:
+      serializedVersion: 2
+      x: 0
+      y: 17
+      width: 42
+      height: 41
+    inner:
+      serializedVersion: 2
+      x: 0
+      y: 17
+      width: 42
+      height: 41
+    rotated: 0
+    paddingLeft: 0.26190478
+    paddingRight: 0.26190478
+    paddingTop: 0.2682927
+    paddingBottom: 0.29268292
+  - name: CatWash
+    outer:
+      serializedVersion: 2
+      x: 0
+      y: 224
+      width: 1280
+      height: 800
+    inner:
+      serializedVersion: 2
+      x: 0
+      y: 224
+      width: 1280
+      height: 800
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  mCoordinates: 0
+  mPixelSize: 1
+  mReplacement: {fileID: 0}
+--- !u!1001 &100100000
+Prefab:
+  serializedVersion: 2
+  m_ObjectHideFlags: 1
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1709254077376921}
+  m_IsPrefabParent: 1

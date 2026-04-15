@@ -1,0 +1,40 @@
+# Czech
+# Last updated: 13.05.2015
+bordel
+buzna
+čumět
+čurák
+debil
+do( )*piče
+do( )*prdele
+dršťka
+držka
+flundra
+hajzl
+hovno
+chcanky
+\bchuj\b
+jebat
+kokot
+kokotina
+kunda
+kurva
+mamrd
+mrdat
+mrdka
+mrdník
+\bpiča\b
+píčus
+píchat
+pizda
+prcat
+prdel
+prdelka
+sračka
+\bsrát\b
+šoustat
+šulin
+zkurvit
+zkurvysyn
+\bzmrd\b
+\bžrát\b

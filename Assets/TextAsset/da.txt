@@ -1,0 +1,11 @@
+# Danish
+# Last updated: 13.05.2015
+fisse
+fissehår
+hestepik
+kussekryller
+\blort\b
+luder
+\bpik\w*\b
+\bpis\b
+\b\w*røv\w*\b
